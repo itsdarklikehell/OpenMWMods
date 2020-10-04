@@ -1,2 +1,2 @@
 # OpenMWMods
-A Huge collectin of mods for openmw
+A Huge collection of mods for openmw
